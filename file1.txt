@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-adding some code
-
-=======
+Fix1
 Fix2
->>>>>>> 66e055e... Added fix1
